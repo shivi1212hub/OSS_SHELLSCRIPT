@@ -1,6 +1,7 @@
 # OSS_SHELLSCRIPT
-Student Name: Shivi Sanjay
 --
+Student Name: Shivi Sanjay
+
 Registration Number: 24BAI10054
 
 A collection of Linux shell scripts created for practicing open-source concepts, Linux system administration, and Bash scripting.
